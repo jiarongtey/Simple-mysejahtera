@@ -1,0 +1,3 @@
+Pfizer:98
+Sinovac:22
+Az:99

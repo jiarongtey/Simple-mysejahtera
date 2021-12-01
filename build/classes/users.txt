@@ -1,0 +1,4 @@
+admin:admin:admin@mail.com:ADMIN:ADMIN
+teyjiarong:teyjiarong:teyjiarong@hotmail.com:tey jia rong:PEOPLE:Negeri Sembilan:AMC Medical Clinic:3:Pfizer
+rachael:rachael:rachael@mail.com:Rachael Yeong:PEOPLE:Johor:Dewan Jubli Intan Mersing:3:Pfizer
+yongsuanjin:password:yongsuanjin@mail.com:Yong Suan Jin:PEOPLE:Kedah:Hospital Kulim:3:Pfizer
